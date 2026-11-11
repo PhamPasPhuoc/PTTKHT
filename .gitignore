@@ -1,0 +1,9 @@
+# Office lock files
+~$*
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
